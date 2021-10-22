@@ -6,7 +6,7 @@ body{
 #header 
 {
     height: 100vh;
-    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(background.png);
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("../background.png");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -177,7 +177,7 @@ body{
 .services
 {
     padding-top: 50px;
-    padding-bottom: 50px;
+
 }
 .services h1 
 {
@@ -226,7 +226,7 @@ body{
 .contact
 {
     padding-top: 50px;
-    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(background.png);
+    background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("../background.png");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
